@@ -56,14 +56,12 @@
 }
 
 
-/* Inactive (disabled) delete button */
 .task-list button.inactive {
-    background-color: #aaa; /* Gray background */
-    color: #666;           /* Muted text color */
-    cursor: not-allowed;   /* Prevents pointer interaction */
+    background-color: #aaa;
+    color: #666;          
+    cursor: not-allowed;   
     box-shadow: none;
 }
-
 
 .task-list li.completed span{
     text-decoration: line-through;

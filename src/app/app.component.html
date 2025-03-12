@@ -12,11 +12,7 @@
     [(checked)]="todoItem.completed"
     (change)="toggleCompleted(i)"
   />
-    <!-- <input  -->
-      <!-- type="checkbox" -->
-      <!-- [(ngModel)]="todoItem.completed" -->
-      <!-- (change)="toggleCompleted(i)" -->
-    <!-- /> -->
+
     <span [class.completed]="todoItem.completed">{{todoItem.task}}</span>
     <button 
     [class.inactive]="!todoItem.completed"
