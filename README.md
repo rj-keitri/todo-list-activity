@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularTodo
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# todo-list-activity
+for self-practice purposes
+>>>>>>> b6e8e007d8e9134adbd0e5713f38d7ca91f6138f
